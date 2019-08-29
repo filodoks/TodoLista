@@ -3,7 +3,7 @@ package cokolwiek.company;
 import java.util.Scanner;
 
 public class Main {
-
+//testuje branch w intellij
     static String[] zadania = new String[100];
     static String[] projekty = new String[100];
     static String[] changeLog = new String[100];
